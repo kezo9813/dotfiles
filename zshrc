@@ -71,3 +71,4 @@ export DISPLAY=192.168.45.225:0
 export DISPLAY=192.168.45.225:0
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
